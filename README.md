@@ -13,6 +13,7 @@ This repository is to help you with installing CloudFlare VPN (1.1.1.1) on your 
 3. Once you are in the session, add a new instance and execute the following command (you can copy and paste to command line)
 
 `mkdir -p project; cd project; git clone https://github.com/k4t3pro/cloudflare-vpn-for-desktop/ .`
+
 'chmod 777 boost.sh'
 
 4. Decide what you need with following options:
