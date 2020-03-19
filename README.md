@@ -12,7 +12,7 @@ This repository is to help you with installing CloudFlare VPN (1.1.1.1) on your 
 2. Go to https://labs.play-with-docker.com/ and login to the page (If you haven't got an account there, sign up a new one, it might take some minutes to complete) **IF YOUR OS SUPPORTS BASH CLI AND HAS DOCKER INSTALLED, YOU CAN SKIP THIS STEP**
 3. Once you are in the session, add a new instance and execute the following command (you can copy and paste to command line)
 
-`mkdir -p project; cd project; git clone https://github.com/cyberman219/cloudflare-vpn-for-desktop/ .`
+`mkdir -p project; cd project; git clone https://github.com/k4t3pro/cloudflare-vpn-for-desktop/ .`
 
 4. Decide what you need with following options:
   -  If you want to generate new account, execute:  
