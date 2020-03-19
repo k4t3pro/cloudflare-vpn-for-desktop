@@ -14,7 +14,7 @@ This repository is to help you with installing CloudFlare VPN (1.1.1.1) on your 
 
 `mkdir -p project; cd project; git clone https://github.com/k4t3pro/cloudflare-vpn-for-desktop/ .`
 
-'chmod 777 boost.sh'
+`chmod 777 boost.sh`
 
 4. Decide what you need with following options:
   -  If you want to generate new account, execute:  
