@@ -31,4 +31,4 @@ This repository is to help you with installing CloudFlare VPN (1.1.1.1) on your 
 6. Last step, import the *wgcf-profile.conf* config file to Wireguard and enjoy your VPN
 ![Screen-Shot-2020-02-03-at-15.49.37.png](https://www.upsieutoc.com/images/2020/02/03/Screen-Shot-2020-02-03-at-15.49.37.png)
 
-## If you need further support, you can drop me a message via http://fb.com/gr219
+## If you need further support, you can drop me a message via https://www.facebook.com/k4t3pro
